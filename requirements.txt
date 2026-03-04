@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pyaudio
+ipywidgets
+ipympl
+plotly
